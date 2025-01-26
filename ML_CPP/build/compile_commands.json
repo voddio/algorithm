@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/44225/Desktop/ML_CPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\44225\\Desktop\\ML_CPP\\main.cpp",
+  "file": "C:/Users/44225/Desktop/ML_CPP/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/44225/Desktop/ML_CPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\common\\metrics.cpp.obj -c C:\\Users\\44225\\Desktop\\ML_CPP\\common\\metrics.cpp",
+  "file": "C:/Users/44225/Desktop/ML_CPP/common/metrics.cpp",
+  "output": "CMakeFiles/main.dir/common/metrics.cpp.obj"
+},
+{
+  "directory": "C:/Users/44225/Desktop/ML_CPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\common\\utils.cpp.obj -c C:\\Users\\44225\\Desktop\\ML_CPP\\common\\utils.cpp",
+  "file": "C:/Users/44225/Desktop/ML_CPP/common/utils.cpp",
+  "output": "CMakeFiles/main.dir/common/utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/44225/Desktop/ML_CPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\linear_regression\\linearRegression.cpp.obj -c C:\\Users\\44225\\Desktop\\ML_CPP\\linear_regression\\linearRegression.cpp",
+  "file": "C:/Users/44225/Desktop/ML_CPP/linear_regression/linearRegression.cpp",
+  "output": "CMakeFiles/main.dir/linear_regression/linearRegression.cpp.obj"
+},
+{
+  "directory": "C:/Users/44225/Desktop/ML_CPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\svm\\svm.cpp.obj -c C:\\Users\\44225\\Desktop\\ML_CPP\\svm\\svm.cpp",
+  "file": "C:/Users/44225/Desktop/ML_CPP/svm/svm.cpp",
+  "output": "CMakeFiles/main.dir/svm/svm.cpp.obj"
+}
+]
